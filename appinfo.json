@@ -1,0 +1,19 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "yungtinho@yahoo.com",
+    "longName": "gravity",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "shortName": "gravity",
+    "uuid": "16056fb4-d8c0-4f0c-b06f-aa7503d3f7f1",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
